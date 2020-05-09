@@ -5,3 +5,6 @@ Serverless Framework 案例
     TENCENT_SECRET_ID
     TENCENT_SECRET_KEY
     
+    
+### [参考文档](https://github.com/serverless-components)    
+    

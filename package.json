@@ -1,6 +1,6 @@
 {
   "name": "serveless-framework",
-  "version": "2.1.0",
+  "version": "1.0.0",
   "description": "Serverless Framework 案例",
   "main": "index.js",
   "scripts": {
